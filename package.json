@@ -1,0 +1,23 @@
+{
+  "name": "buildkite-project",
+  "version": "1.0.0",
+  "description": "Whatever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danwakeem/buildkite-project.git"
+  },
+  "keywords": [
+    "buildkit",
+    "sample"
+  ],
+  "author": "Danwakeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danwakeem/buildkite-project/issues"
+  },
+  "homepage": "https://github.com/Danwakeem/buildkite-project#readme"
+}
