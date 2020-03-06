@@ -1,4 +1,3 @@
 steps:
   - label: ":whale: The great script"
-    command:
-      - "npm test"
+    command: echo "Hello!"
